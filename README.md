@@ -21,8 +21,8 @@ I learnd basic of css and html.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DavitDvalashvili/QR-code-Project)
-- Live Site URL: [Add live site URL here](https://davitdvalashvili.github.io/QR-code-Project/)
+- Solution URL: [Add solution URL here](https://github.com/DavitDvalashvili/QR-code-Component)
+- Live Site URL: [Add live site URL here](https://davitdvalashvili.github.io/QR-code-Component/)
 
 ## My process
 - Added html tags.
